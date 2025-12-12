@@ -1,6 +1,6 @@
 Executive Summary
 
-Below is the observation and  recommendations after analysis made on FCB loan bookl Credit facilities namely, SME, Retail and Corporate loans;
+Below is the observation and  recommendations after analysis made on FCB loan book on Credit facilities namely, SME, Retail and Corporate loans;
 
 1.	Corporate credit facility is relatively generating lower profits as compared to the other facilities
 2.	There is higher Exposure at default on Retail loan portfolio
